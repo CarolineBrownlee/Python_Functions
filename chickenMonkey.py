@@ -1,4 +1,6 @@
 # 1. Write a program that prints the numbers from 1 to 100. You can use Python's range() to quickly make a list of numbers.
+for i in range(1, 101):
+    print(i)
 
 # 2. For multiples of five (5, 10, 15, etc.) print "Chicken" instead of the number
 
